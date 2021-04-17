@@ -19,7 +19,7 @@ Funtions of the system:
   - Attendance Record 
   
   
-## System Architecture
+## System Archit    ecture
 <img src="https://user-images.githubusercontent.com/11400016/70865130-c93c1400-1f94-11ea-8d47-598a18b3ced9.PNG" />
 
 ## Domain Model
