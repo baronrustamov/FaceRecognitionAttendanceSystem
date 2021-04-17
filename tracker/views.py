@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from django.shortcuts import render, redirect, render_to_response, HttpResponse
+from django.shortcuts import render, redirect, HttpResponse
 from django.contrib.auth import authenticate, login as _login, logout as _logout
 from django.http import JsonResponse
 
